@@ -24,7 +24,7 @@ const Navbar = () => {
 
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
-  const Logo='/Logo.jpg';
+  const Logo='/images/Logo.jpg';
   return (
     <nav
       className={`${
