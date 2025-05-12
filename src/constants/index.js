@@ -1,18 +1,19 @@
-const django = '/django.png';
-const mysql = '/mysql.png';
-const unity = '/unity.png';
-const Ayurvedha = '/Ayurvedha.png';
-const WaterTracker = '/WaterTracker.jpg';
-const Bank = '/Bank.jpg';
-const Association = '/Association.jpg';
-const IEF = '/IEF.jpg';
-const mentor_connect = '/metor_connect.png';
-const hospital_management_system = '/hospital_management_system.png';
-const AR_app = '/AR_app.jpeg';
-const VR_game = '/VR_game.jpg';
-const law_management_system = '/law_management_system.png';
-const Ayurveda_Website = '/Ayurveda_Website.jpg';
-const Currency_convertion = '/Currency_convertion.jpg';
+const django = '/images/django.png';
+const mysql = '/images/mysql.png';
+const unity = '/images/unity.png';
+const Ayurvedha = '/images/Ayurvedha.png';
+const WaterTracker = '/images/WaterTracker.jpg';
+const Bank = '/images/Bank.jpg';
+const Association = '/images/Association.jpg';
+const IEF = '/images/IEF.jpg';
+const mentor_connect = '/images/metor_connect.png';
+const hospital_management_system = '/images/hospital_management_system.png';
+const AR_app = '/images/AR_app.jpeg';
+const VR_game = '/images/VR_game.jpg';
+const law_management_system = '/images/Law_management_system.png';
+const Ayurveda_Website = '/images/Ayurveda_Website.jpg';
+const Currency_convertion = '/images/Currency_convertion.jpg';
+
 
 import {
   mobile,
