@@ -5,7 +5,7 @@ import { ComputersCanvas } from "./canvas";
 
 
 const Hero = () => {
-  const Profile='/Profile.jpg';
+  const Profile='/images/Profile.jpg';
   return (
     <section className={`relative w-full h-screen mx-auto`}>
       <div
